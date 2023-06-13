@@ -3,7 +3,7 @@
   "tasks": [
     {
       "type": "shell",
-      "label": "Do",
+      "label": "Build",
       "command": "C:\\MinGW\\bin\\g++.exe",
       "args": ["-g",
                "${file}",
